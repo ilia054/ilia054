@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @ilia054
-- 👀 I’m interested in ...
-- 🌱 I’m currently leaarning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ilia054/ilia054 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Ilya lev!
+- Im currently studying my BSC in software engineering in Ort Braude college! 
+- Fluent in #C, Java, Assembly, JavaFX, UNIX #C
+- 
