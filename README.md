@@ -1,9 +1,11 @@
-                                                                    **Hi 👋, I’m Ilya lev!**
+
+**Hi 👋, I’m Ilya lev!**
+
+**I'm a Software Engineering student Currently in my third year**
   
-						** I'm a Software Engineering student Currently in my third year**
-							  **Currently Looking for a student position**
+**Currently Looking for a student position**
 _________________________________________________________________________________________________________________________________________________________________________
-						
+
 
  **👨‍🎓 About Me**
  ________________________________________________________________________________________________________________________________________________________________________
@@ -29,7 +31,7 @@ ________________________________________________________________________________
 📞 **How to contact me**
 _________________________________________________________________________________________________________________________________________________________________________
 [![LinkedIn](https://user-images.githubusercontent.com/88554020/159462687-4280e286-c1ca-43f9-ab61-a2d82913d9c5.png )](https://www.linkedin.com/in/ilya-lev-620ab5206/)
-[![email](https://user-images.githubusercontent.com/88554020/159463281-1bb5698a-b8a3-4d22-831c-7635520a99c0.png)](ilia0544@gmail.com)
+<a href="mailto:ilia0544@gmail.com" title="Oneill's Mail"> <img src="https://user-images.githubusercontent.com/66797449/153720504-ec684a6f-baff-4e07-9b4e-62eae7dfd358.png"/></a>
 
 
 
