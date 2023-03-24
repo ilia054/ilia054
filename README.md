@@ -1,39 +1,48 @@
+<h1 align="center">Hi </a> I'm Ilya <a href="#"><img src="https://user-images.githubusercontent.com/66797449/153720384-ebe4addc-2296-4b09-905c-28d7752315f1.gif" width="30"></h1>
+<h3 align="center">I'm a Full Stack Developer and Software Engineering student</h3>
 
-**Hi 👋, I’m Ilya lev!**
+## 👨‍🎓 About Me
 
-**I'm a Software Engineering student Currently in my third year**
-  
-**Currently Looking for a student position**
-_________________________________________________________________________________________________________________________________________________________________________
+<a href="#"><img align="right" src="https://user-images.githubusercontent.com/66797449/175926578-2f4e8ce3-0df2-4c08-8469-aebe180d016c.gif" title="Programming Computer"/></a>
 
+-   🌱 I’m currently learning Software Engineering (B.Sc.) at ORT Braude College.
+-   🔭 I work as a **Full Stack Developer** at **IMC Iscar LTD**.
+-   📫 How to reach me - **[ilia0544@gmail.com](mailto:ilia0544@gmail.com)**
 
- **👨‍🎓 About Me**
- ________________________________________________________________________________________________________________________________________________________________________
- 🖋 Currently studying Software Engineering (BSc) at ORT Braude College
- 🌎 I'm from Karmiel,Israel
- 
- 🗒 Can reach me at: ilia0544@gmail.com
- 
- 💻 My Most recent project: https://github.com/ilia054/ToonTanks
- ________________________________________________________________________________________________________________________________________________________________________
+## 🚀 Languages, Frameworks and Databases
 
-🤖 **Languges and Frame Works**
-_________________________________________________________________________________________________________________________________________________________________________
-![image](https://user-images.githubusercontent.com/88554020/159458026-e7c9871c-b7f7-438d-9ceb-0581c985ad08.png) 
-![image](https://user-images.githubusercontent.com/88554020/159457916-d03ffafa-a9d4-4d68-aa13-56c9b29e175f.png)
-![image](https://user-images.githubusercontent.com/88554020/159457948-a2247dd0-56eb-4f59-b342-5ed31e22a547.png)
-![image](https://user-images.githubusercontent.com/88554020/160645311-a6eda6e7-b53c-4b7a-932d-28e752279f70.png)
-![image](https://user-images.githubusercontent.com/88554020/160645758-997dff17-a602-4e9e-8e24-f60d487ff2a1.png)
-![image](https://user-images.githubusercontent.com/88554020/159457981-86d409c0-5402-43f5-a6f5-5d3206e332cc.png)
-![image](https://user-images.githubusercontent.com/88554020/159457994-5e2f3cf8-4c23-4825-a519-46ab8877260f.png)
-![image](https://user-images.githubusercontent.com/88554020/159458013-7de4623e-e54c-41e6-bb95-bbd8b1088069.png)
+<p align="left">
+    <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179549890-f7bbf94b-a6f3-4125-b324-43e01beec02f.svg" title="C" width="45" height="60"/></a>
+    <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179550472-43c66040-678d-43f6-9b23-a29f922edeff.svg" title="C++" width="45" height="60"/></a>
+      <a href="#"><img align="center" src="https://user-images.githubusercontent.com/88554020/227545689-e1ac80db-d085-4725-87b8-76b2d1263a50.svg" title="C#" width="45" height="60"/></a>
+    <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179539867-f24505fc-5848-4c23-b47b-78475851aec2.svg" title="Java" width="45" height="60"/></a>
+    <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179539964-66b7b78f-3d63-493a-9bdd-6b048f7faaac.svg" title="MySQL" width="45" height="60"/></a>
+    <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179608597-7d07727b-ec72-49ee-9d57-793d364dabfe.svg" title="JavaScript" width="45" height="60"/></a>
+    <a href="#"><img align="center" src="https://user-images.githubusercontent.com/88554020/227540578-b86cb79a-a949-43dc-8201-92f02234946f.png" title="Unreal Engine" width="60" height="60"/></a>
+</p>
 
-📞 **How to contact me**
-_________________________________________________________________________________________________________________________________________________________________________
-[![LinkedIn](https://user-images.githubusercontent.com/88554020/159462687-4280e286-c1ca-43f9-ab61-a2d82913d9c5.png )](https://www.linkedin.com/in/ilya-lev-620ab5206/)
-<a href="mailto:ilia0544@gmail.com" title="Ilya's Mail"> <img src="https://user-images.githubusercontent.com/66797449/153720504-ec684a6f-baff-4e07-9b4e-62eae7dfd358.png"/></a>
+## ⚒️ Tools
 
 
+<p align="left">
+    <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179543596-33e3c002-5aed-42ca-89c4-77f58ac0536c.svg" title="VSCode" width="45" height="60"/></a>
+      <a href="#"><img align="center" src="https://user-images.githubusercontent.com/88554020/227542087-4ade5db7-3111-442a-a36a-e4acc997e837.png" title="V" width="50" height="60"/></a>
+    <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179540318-60878969-0e77-4b0c-9e30-f86d18e7a865.svg" title="Git" width="45" height="60"/></a>
+    <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179540379-00a114d3-953a-4e27-a2f4-73272cf440ab.svg" title="Github" width="45" height="60"/></a>
+    <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/181584024-20343a58-f73b-43d0-9fe6-7f40d994bd88.svg" title="Postman" width="45" height="60"/></a>  
+</p>
 
- 
- 
+## 📚 Currently Studying
+
+<p align="left">
+    <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179608603-61168798-04ad-4f6f-88b3-9e7cdaa064f7.svg" title="TypeScript" width="45" height="60"/></a>
+  <a href="#"><img align="center" src="https://user-images.githubusercontent.com/88554020/227542952-2560b52f-7089-4b88-9603-263f8dd35215.png" title="Python" width="55" height="60"/></a>
+    <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179540138-64c04df5-9133-46cf-890f-8b4ac3852fb2.svg" title="Angular" width="45" height="60"/></a>
+</p>
+
+## 📞 Contact Me
+
+<p align="left">
+    <a href="https://linkedin.com/in/ilya-lev" target="_blank" title="Ilya's Linkedin"> <img align="center" src="https://user-images.githubusercontent.com/66797449/179542406-6a84f1d9-8cc8-400b-9f5a-918e104fdce0.svg" width="45" height="60"/></a>
+    <a href="mailto:ilia0544@gmail.com" title="Ilya's Mail"> <img align="center" src="https://user-images.githubusercontent.com/66797449/179540482-19c0a1b3-1dc0-4a52-afc9-3491a859bd2d.svg" width="45" height="60"/></a>
+</p>
