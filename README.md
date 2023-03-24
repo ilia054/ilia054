@@ -23,13 +23,13 @@
 
 ## ⚒️ Tools
 
-
 <p align="left">
     <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179543596-33e3c002-5aed-42ca-89c4-77f58ac0536c.svg" title="VSCode" width="45" height="60"/></a>
       <a href="#"><img align="center" src="https://user-images.githubusercontent.com/88554020/227542087-4ade5db7-3111-442a-a36a-e4acc997e837.png" title="V" width="50" height="60"/></a>
     <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179540318-60878969-0e77-4b0c-9e30-f86d18e7a865.svg" title="Git" width="45" height="60"/></a>
     <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179540379-00a114d3-953a-4e27-a2f4-73272cf440ab.svg" title="Github" width="45" height="60"/></a>
     <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/181584024-20343a58-f73b-43d0-9fe6-7f40d994bd88.svg" title="Postman" width="45" height="60"/></a>  
+    <a href="#"><img align="center" src="https://user-images.githubusercontent.com/88554020/227547202-fa0a31b1-1468-4a8c-b48a-940bbcfc5aa8.svg" title="Azure" width="45" height="60"/></a>  
 </p>
 
 ## 📚 Currently Studying
