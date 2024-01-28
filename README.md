@@ -6,7 +6,7 @@
 <a href="#"><img align="right" src="https://user-images.githubusercontent.com/66797449/175926578-2f4e8ce3-0df2-4c08-8469-aebe180d016c.gif" title="Programming Computer"/></a>
 
 -   🌱 I’m currently learning Software Engineering (B.Sc.) at ORT Braude College.
--   🔭 I work as a **Full Stack Developer** at **IMC Iscar LTD**.
+-   🔭 I work as a **BackEnd Developer** at **IMC Iscar LTD**.
 -   📫 How to reach me - **[ilia0544@gmail.com](mailto:ilia0544@gmail.com)**
 
 ## 🚀 Languages, Frameworks and Databases
@@ -17,8 +17,6 @@
       <a href="#"><img align="center" src="https://user-images.githubusercontent.com/88554020/227545689-e1ac80db-d085-4725-87b8-76b2d1263a50.svg" title="C#" width="45" height="60"/></a>
     <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179539867-f24505fc-5848-4c23-b47b-78475851aec2.svg" title="Java" width="45" height="60"/></a>
     <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179539964-66b7b78f-3d63-493a-9bdd-6b048f7faaac.svg" title="MySQL" width="45" height="60"/></a>
-    <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179608597-7d07727b-ec72-49ee-9d57-793d364dabfe.svg" title="JavaScript" width="45" height="60"/></a>
-    <a href="#"><img align="center" src="https://user-images.githubusercontent.com/88554020/227540578-b86cb79a-a949-43dc-8201-92f02234946f.png" title="Unreal Engine" width="60" height="60"/></a>
 </p>
 
 ## ⚒️ Tools
