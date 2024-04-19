@@ -9,13 +9,14 @@
 -   🔭 I work as a **BackEnd Developer** at **IMC Iscar LTD**.
 -   📫 How to reach me - **[ilia0544@gmail.com](mailto:ilia0544@gmail.com)**
 
-## 🚀 Languages, Frameworks and Databases
+## 🚀 Languages And Tools:
 
 <p align="left">
+    <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179539867-f24505fc-5848-4c23-b47b-78475851aec2.svg" title="Java" width="45" height="60"/></a>
     <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179549890-f7bbf94b-a6f3-4125-b324-43e01beec02f.svg" title="C" width="45" height="60"/></a>
     <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179550472-43c66040-678d-43f6-9b23-a29f922edeff.svg" title="C++" width="45" height="60"/></a>
-      <a href="#"><img align="center" src="https://user-images.githubusercontent.com/88554020/227545689-e1ac80db-d085-4725-87b8-76b2d1263a50.svg" title="C#" width="45" height="60"/></a>
-    <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179539867-f24505fc-5848-4c23-b47b-78475851aec2.svg" title="Java" width="45" height="60"/></a>
+    <a href="#"><img align="center" src="https://user-images.githubusercontent.com/88554020/227545689-e1ac80db-d085-4725-87b8-76b2d1263a50.svg" title="C#" width="45" height="60"/></a>
+    <a href="#"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="45" height="60"/></a>
     <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179539964-66b7b78f-3d63-493a-9bdd-6b048f7faaac.svg" title="MySQL" width="45" height="60"/></a>
 </p>
 
@@ -30,13 +31,6 @@
     <a href="#"><img align="center" src="https://user-images.githubusercontent.com/88554020/227547202-fa0a31b1-1468-4a8c-b48a-940bbcfc5aa8.svg" title="Azure" width="45" height="60"/></a>  
 </p>
 
-## 📚 Currently Studying
-
-<p align="left">
-    <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179608603-61168798-04ad-4f6f-88b3-9e7cdaa064f7.svg" title="TypeScript" width="45" height="60"/></a>
-  <a href="#"><img align="center" src="https://user-images.githubusercontent.com/88554020/227542952-2560b52f-7089-4b88-9603-263f8dd35215.png" title="Python" width="55" height="60"/></a>
-    <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179540138-64c04df5-9133-46cf-890f-8b4ac3852fb2.svg" title="Angular" width="45" height="60"/></a>
-</p>
 
 ## 📞 Contact Me
 
